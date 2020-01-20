@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="6" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{71752943-4E21-42C8-96D1-D88652DCBE5B}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="WF" Key="{B3742DA6-E48B-40BA-BABE-3D75415EFE35}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="WF" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Form1" Key="{2260C091-EE39-4808-B6BF-95BB0CCDB403}" ParallelWalk="True">
+								<Image FileName="570759375" Left="0" Top="0" Right="921" Bottom="516" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value PropertyType="0" Value="Form1" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="splitContainer1" Key="{C28200F0-8DFD-4AD2-8E67-1A1F1A8EF81C}" ParallelWalk="True">
+										<Image FileName="570759375" Left="4" Top="23" Right="917" Bottom="512" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value PropertyType="0" Value="splitContainer1" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="SplitterPanel" Key="{AF3E6539-5F60-4B2E-BFDD-C863DA04B511}" ParallelWalk="True">
+												<Image FileName="570759375" Left="4" Top="23" Right="488" Bottom="512" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value PropertyType="0" Value="System.Windows.Forms.SplitterPanel" Type="5" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value PropertyType="0" Value="" Type="5" />
+													</Property>
+													<Property Name="Index">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="groupBox1" Key="{1255A21A-DA57-4365-BFF4-7779EF4EA098}" ParallelWalk="True">
+														<Image FileName="570759375" Left="4" Top="23" Right="488" Bottom="512" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value PropertyType="0" Value="groupBox1" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="splitContainer2" Key="{466262F5-CF61-4774-8248-06AE6DC92351}" ParallelWalk="True">
+																<Image FileName="570759375" Left="7" Top="39" Right="485" Bottom="509" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value PropertyType="0" Value="splitContainer2" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="SplitterPanel" Key="{B9E3AD45-6315-41B4-A218-6B4808F2B807}" ParallelWalk="True">
+																		<Image FileName="570759375" Left="7" Top="98" Right="485" Bottom="509" />
+																		<Properties>
+																			<Property Name="ClrFullClassName">
+																				<Value PropertyType="0" Value="System.Windows.Forms.SplitterPanel" Type="5" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="Index">
+																				<Value PropertyType="0" Value="2" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="splitContainer3" Key="{2DCDE5E0-2D0F-4D93-934A-6D982A0D0DE2}" ParallelWalk="True">
+																				<Image FileName="570759375" Left="7" Top="98" Right="485" Bottom="509" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value PropertyType="0" Value="splitContainer3" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="SplitterPanel" Key="{BAAFDDBB-C2CA-47AA-B97D-3CEF8B827162}" ParallelWalk="True">
+																						<Image FileName="570759375" Left="7" Top="98" Right="485" Bottom="481" />
+																						<Properties>
+																							<Property Name="ClrFullClassName">
+																								<Value PropertyType="0" Value="System.Windows.Forms.SplitterPanel" Type="5" />
+																							</Property>
+																							<Property Name="WndCaption">
+																								<Value PropertyType="0" Value="" Type="5" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="dataGridView1" Key="{860DCD35-CBCA-4F5C-90B5-75C29E9D05BF}" ParallelWalk="True">
+																								<Image FileName="570759375" Left="7" Top="98" Right="485" Bottom="481" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value PropertyType="0" Value="dataGridView1" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Panel" Key="{31D9EC9E-152A-4889-B0DA-17E23A9FBA8D}" ParallelWalk="True">
+																										<Image FileName="-872607954" Left="28" Top="130" Right="77" Bottom="151" />
+																										<Properties>
+																											<Property Name="ClrFullClassName">
+																												<Value PropertyType="0" Value="System.Windows.Forms.Panel" Type="5" />
+																											</Property>
+																											<Property Name="WndCaption">
+																												<Value PropertyType="0" Value="" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="DataGridViewTextBoxEditingControl" Key="{AF5E9D37-9A4B-4C30-9FBF-C410361378BD}" ParallelWalk="True">
+																												<Image FileName="-872607954" Left="31" Top="134" Right="76" Bottom="147" />
+																												<TypeInfo Item0="{0308815C-CC6E-41EA-BC0B-C59D0EDFD9E5}" />
+																												<Properties>
+																													<Property Name="ClrFullClassName">
+																														<Value PropertyType="0" Value="System.Windows.Forms.DataGridViewTextBoxEditingControl" Type="5" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="SplitterPanel2" Key="{53C96D7A-01DB-47D9-B9A1-FD91FB29B409}" ParallelWalk="True">
+																		<Image FileName="-262514037" Left="7" Top="39" Right="485" Bottom="95" />
+																		<Properties>
+																			<Property Name="ClrFullClassName">
+																				<Value PropertyType="0" Value="System.Windows.Forms.SplitterPanel" Type="5" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value PropertyType="0" Value="" Type="5" />
+																			</Property>
+																			<Property Name="Index">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="button1" Key="{C86FD1B8-F46E-46FF-BF4D-15D5E0C9B697}" ParallelWalk="True">
+																				<Image FileName="-262514037" Left="368" Top="48" Right="485" Bottom="72" />
+																				<TypeInfo Item0="{5BC7FA80-2145-4D86-9EC6-5BB8046ED6AF}" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value PropertyType="0" Value="button1" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="WF" Owner="{B3742DA6-E48B-40BA-BABE-3D75415EFE35}">
+			<Child Name="Form1" Owner="{2260C091-EE39-4808-B6BF-95BB0CCDB403}">
+				<Child Name="splitContainer1" Owner="{C28200F0-8DFD-4AD2-8E67-1A1F1A8EF81C}">
+					<Child Name="SplitterPanel" Owner="{AF3E6539-5F60-4B2E-BFDD-C863DA04B511}">
+						<Child Name="groupBox1" Owner="{1255A21A-DA57-4365-BFF4-7779EF4EA098}">
+							<Child Name="splitContainer2" Owner="{466262F5-CF61-4774-8248-06AE6DC92351}">
+								<Child Name="SplitterPanel" Owner="{B9E3AD45-6315-41B4-A218-6B4808F2B807}">
+									<Child Name="splitContainer3" Owner="{2DCDE5E0-2D0F-4D93-934A-6D982A0D0DE2}">
+										<Child Name="SplitterPanel" Owner="{BAAFDDBB-C2CA-47AA-B97D-3CEF8B827162}">
+											<Child Name="dataGridView1" Owner="{860DCD35-CBCA-4F5C-90B5-75C29E9D05BF}">
+												<Child Name="Panel" Owner="{31D9EC9E-152A-4889-B0DA-17E23A9FBA8D}">
+													<Child Name="DataGridViewTextBoxEditingControl" Owner="{AF5E9D37-9A4B-4C30-9FBF-C410361378BD}" />
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="SplitterPanel2" Owner="{53C96D7A-01DB-47D9-B9A1-FD91FB29B409}">
+									<Child Name="button1" Owner="{C86FD1B8-F46E-46FF-BF4D-15D5E0C9B697}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+	<TypeInfo StoreCodeCompletion="1">
+		<Child Hash="-934726023" Key="{0308815C-CC6E-41EA-BC0B-C59D0EDFD9E5}">
+			<Data Properties="4E60DF5DAC493049B8395552176E66F6UFFFFFFFFFFFFFFFFV4LCZZY">
+				<FunctionDescriptions>
+					<Child Name="SetText" Doc="Enters text in the text editor." IsBasic="True" Param0="Text" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wText" Doc="Contents of the edit control, as text string." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="wSelection" Doc="Retrieves the selected text." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="1098928521" Key="{5BC7FA80-2145-4D86-9EC6-5BB8046ED6AF}">
+			<Data Properties="DA4CAD13CFA87240BF6018B5F695D673UFFFFFFFFFFFFFFFFV4LAZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+	</TypeInfo>
+</Root>

@@ -1,0 +1,47 @@
+function Test1()
+{
+  TestedApps.WF.Run(1, true);
+  let form1 = Aliases.WF.Form1;
+  let splitContainer = form1.splitContainer1.SplitterPanel.groupBox1.splitContainer2;
+  let dataGridView = splitContainer.SplitterPanel.splitContainer3.SplitterPanel.dataGridView1;
+  dataGridView.ClickCell(0, "ph");
+  let dataGridViewTextBoxEditingControl = dataGridView.Panel.DataGridViewTextBoxEditingControl;
+  dataGridViewTextBoxEditingControl.Click(27, 8);
+  dataGridViewTextBoxEditingControl.SetText("3,02");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("3");
+  dataGridViewTextBoxEditingControl.SetText("3,57");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("3");
+  dataGridViewTextBoxEditingControl.SetText("3,91");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("4");
+  dataGridViewTextBoxEditingControl.SetText("4,28");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("4");
+  dataGridViewTextBoxEditingControl.SetText("4,46");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("4");
+  dataGridViewTextBoxEditingControl.SetText("4,63");
+  dataGridView.DblClickCell(0, "Dx");
+  dataGridView.ClickCell(0, "Dx");
+  dataGridViewTextBoxEditingControl.Click(29, 1);
+  dataGridViewTextBoxEditingControl.SetText("0,149");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("0");
+  dataGridViewTextBoxEditingControl.SetText("0,254");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("0");
+  dataGridViewTextBoxEditingControl.SetText("0,397");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("0");
+  dataGridViewTextBoxEditingControl.SetText("0,56");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("0");
+  dataGridViewTextBoxEditingControl.SetText("0,62");
+  dataGridViewTextBoxEditingControl.Keys("[Down]");
+  dataGridView.Keys("0");
+  dataGridViewTextBoxEditingControl.SetText("0,681");
+  splitContainer.SplitterPanel2.button1.ClickButton();
+  form1.Close();
+}

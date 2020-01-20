@@ -1,0 +1,18 @@
+[Project]
+Owner=admin
+Name=PO_const
+GUID={AAEE54EB-95F4-4E09-BD6A-51F4CE2B9962}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=
+Owner Key=1
+Revision number=1.0006
+Prefix=
+NbrRequirements=28
+Directory=C:\Users\Antipov\Desktop\Требования RequisiteProКом\CarParking\CarParking.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+
